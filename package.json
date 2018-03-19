@@ -1,0 +1,26 @@
+{
+  "name": "nbastats",
+  "version": "1.0.0",
+  "dependencies": {
+    "chart.js": "^2.7.2",
+    "chartjs-plugin-datalabels": "^0.2.0",
+    "nba": "^4.2.0",
+    "react": "^16.2.0",
+    "react-autocomplete": "^1.8.1",
+    "react-autosuggest": "^9.3.4",
+    "react-chartjs-2": "^2.7.0",
+    "react-dom": "^16.2.0",
+    "react-loading-components": "^1.1.12",
+    "react-router-dom": "^4.2.2",
+    "react-scripts": "1.1.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "concurrently": "^3.5.1"
+  }
+}
